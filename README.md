@@ -1,3 +1,6 @@
+Trip Planner
+This is a small utility which can help you to plan your trip, all it needs is the destinations to which you want to travel and it will sort the trip based on fastest and cheapest options available.
+
 Installation and running instruntions:
 
 1. Clone this repo to your machine
@@ -8,7 +11,7 @@ Installation and running instruntions:
 3. Build the Server script using the following commnad
    yarn build:server
 
-4. Before you start the client and servers please ensure you have not anything running on the following ports
+4. Before you start the client and servers please ensure you have not anything running on the following ports, if running please kill the process first.
    8080 for the server
    3000 for the client
 
