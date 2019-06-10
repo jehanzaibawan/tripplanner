@@ -22,3 +22,19 @@ Installation and running instruntions:
 6. Start the client by running following command<br>
    yarn start:client<br>
    once client is started, it will automatically will open up the browser and will redirect you to http://localhost:3000, if for some reason, browser/tab doesn't open, please open it yourself.
+
+<br><br>
+Folder Structure explained:
+Server side code is seperated into a folder caller 'SERVER', its purely a Node and Express. This can be easy in moving or taking out the server side code in the future for different deployment or server needs.<br><br>
+The server side code uses es6 features which then transpiled to es5 for which babel is setup into the project.<br>
+Inside the SERVER folder there is 'src' folder which contains following sub folders,<br><br>
+--Controllers -- for calling business logic and serving
+--Models -- for business logic
+--Libraries -- for algorithams
+--Resources
+--Routes -- all the routes of the api are defined here
+--Uitls -- for utility functions
+<br><br>
+and server.js is the entry point for the server.
+<br><br>
+Client side code is bootstraped using Create React App.<br>
