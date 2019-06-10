@@ -21,7 +21,7 @@ Installation and running instruntions:
 
 6. Start the client by running following command<br>
    yarn start:client<br>
-   once client is started, it will automatically will open up the browser and will redirect you to http://localhost:3000, if for some reason, browser/tab doesn't open, please open it yourself.<br>
+   once client is started, it will automatically will open up the browser and will redirect you to http://localhost:3000, if for some reason, browser/tab doesn't open, please open it yourself.<br><br>
 Folder Structure explained:<br>
 Server side code is seperated into a folder caller 'SERVER', its purely a Node and Express. This can be easy in moving or taking out the server side code in the future for different deployment or server needs.<br><br>
 The server side code uses es6 features which then transpiled to es5 for which babel is setup into the project.<br>
