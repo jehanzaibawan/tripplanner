@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="MuiToggleButtonGroup-root"
+>
+  <button
+    className="MuiButtonBase-root MuiToggleButton-root Mui-selected MuiToggleButton-sizeSmall"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+    value="cheapest"
+  >
+    <span
+      className="MuiToggleButton-label"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root makeStyles-leftIcon-1"
+      >
+        low_priority
+      </span>
+      <strong>
+        cheapest
+      </strong>
+    </span>
+  </button>
+  <button
+    className="MuiButtonBase-root MuiToggleButton-root MuiToggleButton-sizeSmall"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+    value="fastest"
+  >
+    <span
+      className="MuiToggleButton-label"
+    >
+      <span
+        aria-hidden={true}
+        className="material-icons MuiIcon-root makeStyles-leftIcon-1"
+      >
+        fast_forward
+      </span>
+      <strong>
+        fastest
+      </strong>
+    </span>
+  </button>
+</div>
+`;

@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <header
+    className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorDefault"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 MuiTypography-colorInherit"
+      >
+        Trip Planner
+      </h6>
+    </div>
+  </header>
+  <div
+    className="MuiContainer-root content-wrapper MuiContainer-maxWidthSm"
+  >
+    <div
+      className="makeStyles-root-79"
+    />
+    <div
+      className="makeStyles-root-79"
+    />
+    <div
+      className="MuiToggleButtonGroup-root"
+    >
+      <button
+        className="MuiButtonBase-root MuiToggleButton-root Mui-selected MuiToggleButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+        value="cheapest"
+      >
+        <span
+          className="MuiToggleButton-label"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root makeStyles-leftIcon-88"
+          >
+            low_priority
+          </span>
+          <strong>
+            cheapest
+          </strong>
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiToggleButton-root MuiToggleButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+        value="fastest"
+      >
+        <span
+          className="MuiToggleButton-label"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root makeStyles-leftIcon-88"
+          >
+            fast_forward
+          </span>
+          <strong>
+            fastest
+          </strong>
+        </span>
+      </button>
+    </div>
+    <div
+      className="buttons-wrapper"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root makeStyles-button-108 MuiButton-contained MuiButton-containedPrimary Mui-disabled Mui-disabled"
+        disabled={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={-1}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <span
+            aria-hidden={true}
+            className="material-icons MuiIcon-root makeStyles-leftIcon-109"
+          >
+            find_in_page
+          </span>
+          Explore
+        </span>
+      </button>
+    </div>
+    <ul
+      className="MuiList-root makeStyles-root-127 MuiList-padding"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+Array [
+  <div
+    className="makeStyles-root-1"
+  />,
+  <div
+    className="makeStyles-root-1"
+  />,
+]
+`;
