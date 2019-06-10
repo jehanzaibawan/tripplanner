@@ -41,4 +41,4 @@ Client side code is bootstraped using Create React App.<br>
 --Screens -- for the screen, as we have only screen and we are not using routes into our app<br>
 --Uilts -- for utility functions<br>
 <br>
-and index.js is the starting point of the client app.
+and index.js is the entry point of the client app.
