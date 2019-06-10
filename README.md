@@ -1,6 +1,6 @@
-Trip Planner
+<strong>Trip Planner</strong><br><br>
 This is a small utility which can help you to plan your trip, all it needs is the destinations to which you want to travel and it will sort the trip based on fastest and cheapest options available.
-
+<br>
 Installation and running instruntions:
 
 1. Clone this repo to your machine
