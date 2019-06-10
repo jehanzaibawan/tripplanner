@@ -31,8 +31,14 @@ Inside the SERVER folder there is 'src' folder which contains following sub fold
 --Libraries -- for algorithams<br>
 --Resources<br>
 --Routes -- all the routes of the api are defined here<br>
---Uitls -- for utility functions<br>
-<br><br>
-and server.js is the entry point for the server.
-<br><br>
+--Uitls -- for utility functions
+<br>
+and server.js is the entry point for the server app.
+<br>
 Client side code is bootstraped using Create React App.<br>
+--Components -- for defining components
+--Resources -- for logo and images
+--Screens -- for the screen, as we have only screen and we are not using routes into our app
+--Uilts -- for utility functions
+<br>
+and index.js is the starting point of the client app.
