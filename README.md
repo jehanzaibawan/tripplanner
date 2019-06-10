@@ -3,7 +3,7 @@ This is a small utility which can help you to plan your trip, all it needs is th
 <br><br>
 Installation and running instruntions:
 
-1. Clone this repo to your machine
+1. Clone this repo to your machine <br>
    git clone https://github.com/jehanzaibawan/tripplanner.git
 
 2. Once the repo is cloned, run 'yarn' or 'yarn install' to install the dependencies
